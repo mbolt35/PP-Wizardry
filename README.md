@@ -15,7 +15,7 @@ There are two "main features" of the included headers:
  1. Reduced template syntax
  2. Reduced namespace syntax
 
-There's not much of a real need for such a "reduced syntax," but I do know that it's possible for template syntax to become unwieldy if used incorrectly. Again, this is not intended to be a used in a 
+There's not much of a real need for such a "reduced syntax," but I do know that it's possible for template syntax to become unwieldy if used incorrectly. Again, this is not intended to be a used in production code.
 
 ### Reduced Template and Namespace Syntax
 
